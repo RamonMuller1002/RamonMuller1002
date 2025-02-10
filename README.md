@@ -9,7 +9,8 @@ Estudante e Funcionário de Análise e Dev. de Sistemas. Procurando me tornar um
 
 - 📘Estudando C 
 - 📙Estudando Javascript
-- 📗Estudando Python  
+- 📗Estudando Python
+- 📕Estudando PostgreSQL
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
