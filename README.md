@@ -2,12 +2,13 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramon.muller.08/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:ramonmuller1002@gmail.com)
+[![Linked-in](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](https://www.linkedin.com/in/ramon-müller-a3305b2a2)
 
-Estudante de Análise e Dev. de Sistemas. Procurando me tornar um desenvolvedor que sabe de todas as principais áreas, como Database Management, CyberSegurança, Desenvolvimento Back-end, et cetera. 📚
+Estudante de Sistemas de informação, formado em curso técnco de Análise e Desenvolvimento de Sistemas. Procurando me tornar um desenvolvedor que sabe de todas as principais áreas, como Database Management, CyberSegurança, Desenvolvimento Back-end, et cetera. 📚
 
-- 📘Estudando C 
-- 📙Estudando Javascript
-- 📕Estudando PostgreSQL
+- 📘Estudando Java
+- 📙Javascript
+- 📕PostgreSQL
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
